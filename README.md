@@ -1,2 +1,16 @@
-# portfolio-2.0
-/site  ├── index.html  ├── /css  │    └── styles.css  ├── /js  │    ├── app.js  │    ├── reveal.js  │    └── ui.js  ├── /pwa  │    ├── manifest.json  │    └── sw.js  ├── /assets  │    ├── /icons  │    │     └── favicon.svg  │    └── /images  │          └── placeholder.webp
+/site
+ ├── index.html
+ ├── /css
+ │    └── styles.css
+ ├── /js
+ │    ├── app.js
+ │    ├── reveal.js
+ │    └── ui.js
+ ├── /pwa
+ │    ├── manifest.json
+ │    └── sw.js
+ ├── /assets
+ │    ├── /icons
+ │    │     └── favicon.svg
+ │    └── /images
+ │          └── placeholder.webp
